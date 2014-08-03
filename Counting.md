@@ -30,3 +30,15 @@
 | achttien | eighteen |
 | negentien | nineteen |
 | twintig | twenty |
+
+## 30, 40, 50, 60, 70, 80, 90
+
+| Dutch | English |
+| ----- | ------- |
+| dertig | thirty |
+| veertig | forty |
+| vijftig | fifty |
+| zestig | sixty |
+| zeventig | seventy |
+| tachtig | eighty |
+| negentig | ninety |
