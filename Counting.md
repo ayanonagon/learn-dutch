@@ -15,3 +15,18 @@
 | acht | eight |
 | negen | nine |
 | tien | ten
+
+## 11 - 20
+
+| Dutch | English |
+| ----- | ------- |
+| elf | eleven |
+| twaalf | twelve |
+| dertien | thirteen |
+| veertien | fourteen |
+| vijftien | fifteen |
+| zestien | sixteen |
+| zeventien | seventeen |
+| achttien | eighteen |
+| negentien | nineteen |
+| twintig | twenty |
