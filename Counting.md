@@ -42,3 +42,29 @@
 | zeventig | seventy |
 | tachtig | eighty |
 | negentig | ninety |
+
+## 21, 22, etc.
+
+In Dutch, twenty one is literally “one *and* twenty” or “eenentwintig” (“een *en* twintig” concatenated). So 21 - 29 would be:
+
+| Dutch | English |
+| ----- | ------- |
+| eenentwintig | twenty one|
+| tweeëntwintig | twenty two |
+| drieëntwintig| twenty three |
+| vierentwintig | twenty four |
+| vijfentwintig | twenty five |
+| zesentwintig | twenty six |
+| zevenentwintig | twenty seven |
+| achtentwintig | twenty eight |
+| negenentwintig | twenty nine |
+
+You do the same for the 30’s, etc.
+
+| Dutch | English |
+| ----- | ------- |
+| eenendertig | thirty one|
+| tweeënveertig | fourty two |
+| drieënvijftig | fifty three |
+
+... and so forth.
