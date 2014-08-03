@@ -18,3 +18,4 @@
 | Dutch | English |
 | ----- | ------- |
 | Mag ik de rekening? | May I get the check? |
+| De rekening, alstublieft. | The check, please. |
