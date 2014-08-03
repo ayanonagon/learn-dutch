@@ -31,3 +31,15 @@
 | Waar kom je vandaan? | Where are you from? |
 | Ik kom uit [place] | I come from [place] |
 | En met jou? | And (with) you? |
+
+## Being polite
+
+| Dutch | English |
+| ----- | ------- |
+| Alsjeblieft | Please |
+| Alstublieft | Please (formal) |
+| Bedankt | Thanks |
+| Dank je wel | Thank you |
+| Dank u wel | Thank you (formal) |
+| Graag gedaan | You’re welcome |
+| Geen dank | Nothing to thank |
