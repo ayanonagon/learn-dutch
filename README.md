@@ -11,6 +11,7 @@
 | Goedemorgen | Good morning |
 | Goedemiddag | Good afternoon |
 | Goedenavond | Good evening |
+| Goedenacht | Good night |
 
 ## Introducing yourself
 
