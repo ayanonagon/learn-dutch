@@ -7,6 +7,7 @@
 | Mag ik bestellen? | May I order? |
 | Ik wil graag een fles water. | I’d like a bottle of water. |
 | Ik neem het broodje kaas. | I’ll take the cheese sandwich. |
+| Voor mij een glas wijn. | For me a glass of wine. |
 
 ## Talking about the food
 
