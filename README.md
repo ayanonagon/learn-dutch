@@ -6,6 +6,7 @@
 | ----- | ------- |
 | Hallo | Hello |
 | Hoi | Hi |
+| Doei | Bye |
 | Dag | Hi / Bye |
 | Tot ziens | Goodbye |
 | Goedemorgen | Good morning |
