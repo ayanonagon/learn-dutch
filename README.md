@@ -22,3 +22,12 @@
 | Mijn naam is [name] | My name is [name] |
 | Leuk je te ontmoeten | Nice to meet you |
 | Insgelijks | Likewise |
+
+## Getting to know someone
+
+| Dutch | English |
+| ----- | ------- |
+| Hoe gaat het? | How are you? |
+| Waar kom je vandaan? | Where are you from? |
+| Ik kom uit [place] | I come from [place] |
+| En met jou? | And (with) you? |
