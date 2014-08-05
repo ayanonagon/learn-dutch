@@ -16,3 +16,25 @@ but in Dutch, “half zeven” means half **before** seven (i.e. 6:30).
 | ----- | ------- |
 | Het is half een. | It is half past twelve. |
 | Het is half twee. | It is half past one. |
+
+## Quarter (15 min) intervals
+
+| Dutch | English |
+| ----- | ------- |
+| Het is kwart *voor* drie. | It is quarter *to* three. |
+| Het is kwart *over* drie. | It is quarter *past* three. |
+
+## Combinations
+
+| Dutch | English |
+| ----- | ------- |
+| Het is vijf over half zeven. | It is 6:35 (lit. five past half six). |
+| Het is tien voor half negen. | It is 8:20 (lit. ten to half eight). |
+
+## Asking for the time
+
+| Dutch | English |
+| ----- | ------- |
+| Hoe laat is het? | What time is it? |
+| Weet je hoe laat het is ? | Do you know what time it is? |
+| Weet u hoe laat het is? | Do you know what time it is? (formal) |
