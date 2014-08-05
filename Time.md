@@ -1,5 +1,7 @@
 # Time
 
+If you haven’t learned numbers yet (at least 1~12), please see [Counting](Counting.md).
+
 ## Basics
 
 | Dutch | English |
