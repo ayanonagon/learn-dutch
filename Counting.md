@@ -68,3 +68,9 @@ You do the same for the 30’s, etc.
 | drieënvijftig | fifty three |
 
 ... and so forth.
+
+## 100
+
+| Dutch | English |
+| ----- | ------- |
+| honderd | hundred |
