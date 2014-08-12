@@ -6,7 +6,7 @@ If you haven’t learned numbers yet (at least 1~12), please see [Counting](Coun
 
 | Dutch | English |
 | ----- | ------- |
-| Het is een uur. | It is one o’clock. |
+| Het is één uur. | It is one o’clock. |
 | Het is twee uur. | It is two o’clock. |
 
 ## Half (30 min) intervals
@@ -16,7 +16,7 @@ but in Dutch, “half zeven” means half **before** seven (i.e. 6:30).
 
 | Dutch | English |
 | ----- | ------- |
-| Het is half een. | It is half past twelve. |
+| Het is half één. | It is half past twelve. |
 | Het is half twee. | It is half past one. |
 
 ## Quarter (15 min) intervals
