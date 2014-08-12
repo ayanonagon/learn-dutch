@@ -4,17 +4,17 @@ Spreek je Nederlands?
 
 ## Basic greetings
 
-| Dutch | English |
-| ----- | ------- |
-| Hallo | Hello |
-| Hoi | Hi |
-| Doei | Bye |
-| Dag | Hi / Bye |
-| Tot ziens | Goodbye |
-| Goedemorgen | Good morning |
-| Goedemiddag | Good afternoon |
-| Goedenavond | Good evening |
-| Goedenacht | Good night |
+| Dutch | English | Comments |
+| ----- | ------- | -------- |
+| Hallo | Hello |  |
+| Hoi | Hi | very informal |
+| Doei | Bye | very informal |
+| Dag | Hi / Bye |  |
+| Tot ziens | Goodbye |  |
+| Goedemorgen | Good morning |  |
+| Goedemiddag | Good afternoon |  |
+| Goedenavond | Good evening |  |
+| Goedenacht | Good night |  |
 
 ## Introducing yourself
 
