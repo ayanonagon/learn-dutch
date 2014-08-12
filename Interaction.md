@@ -1,6 +1,6 @@
-# Learn Dutch
+# Interaction
 
-Spreek je Nederlands?
+Interaction in dutch.
 
 ## Basic greetings
 
