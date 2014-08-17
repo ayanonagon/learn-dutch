@@ -16,6 +16,7 @@
 | Dutch | English |
 | ----- | ------- |
 | Dat is lekker. | That’s tasty. |
+| Proost. | Cheers. |
 
 ## Getting the check
 
