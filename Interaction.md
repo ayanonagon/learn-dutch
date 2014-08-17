@@ -46,3 +46,4 @@ Interaction in dutch.
 | Dank u wel | Thank you (formal) |
 | Graag gedaan | You’re welcome |
 | Geen dank | Nothing to thank |
+| Het spijt me | I’m sorry |
