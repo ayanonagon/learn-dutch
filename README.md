@@ -6,7 +6,7 @@ Dutch learning notes, open-sourced.
 
 | File | Contents |
 | ---- | -------- |
-| [Counting.md](Counting.md) | Counting up till 1000. |
+| [Counting.md](Counting.md) | Counting up to 1000. |
 | [Interaction.md](Interaction.md) | Basic interaction in Dutch. |
 | [Learning.md](Learning.md) | Learning Dutch in Dutch. |
 | [Nouns.md](Nouns.md) | Common nouns in Dutch. |
