@@ -69,8 +69,9 @@ You do the same for the 30’s, etc.
 
 ... and so forth.
 
-## 100
+## 100+
 
 | Dutch | English |
 | ----- | ------- |
 | honderd | hundred |
+| duizend | thousand |
