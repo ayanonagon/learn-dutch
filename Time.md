@@ -38,5 +38,5 @@ but in Dutch, “half zeven” means half **before** seven (i.e. 6:30).
 | Dutch | English |
 | ----- | ------- |
 | Hoe laat is het? | What time is it? |
-| Weet je hoe laat het is ? | Do you know what time it is? |
+| Weet je hoe laat het is? | Do you know what time it is? |
 | Weet u hoe laat het is? | Do you know what time it is? (formal) |
