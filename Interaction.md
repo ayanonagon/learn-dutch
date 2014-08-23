@@ -11,6 +11,7 @@ Interaction in dutch.
 | Doei | Bye | very informal |
 | Dag | Hi / Bye |  |
 | Tot ziens | Goodbye |  |
+| Tot straks | See you later |  |
 | Goedemorgen | Good morning |  |
 | Goedemiddag | Good afternoon |  |
 | Goedenavond | Good evening |  |
