@@ -17,6 +17,17 @@ Interaction in dutch.
 | Goedenavond | Good evening |  |
 | Goedenacht | Good night |  |
 
+## Basic interactions
+
+| Dutch | English | Comments |
+| ----- | ------- | -------- |
+| Hoe gaat het? | How are you? | *lit.* How goes it? |
+| Hoe gaat het met jou? | How are you? | *lit.* How goes it with you? |
+| Hoe gaat het met u? | How are you? | formal |
+| Goed. | Good. |  |
+| Niet zo goed. | Not so good. |  |
+| En met jou? | And (with) you? |  |
+
 ## Introducing yourself
 
 | Dutch | English |
@@ -31,10 +42,8 @@ Interaction in dutch.
 
 | Dutch | English |
 | ----- | ------- |
-| Hoe gaat het? | How are you? |
 | Waar kom je vandaan? | Where are you from? |
 | Ik kom uit [place] | I come from [place] |
-| En met jou? | And (with) you? |
 
 ## Being polite
 
