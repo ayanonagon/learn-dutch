@@ -12,3 +12,4 @@ Dutch learning notes, open-sourced.
 | [Nouns.md](Nouns.md) | Common nouns in Dutch. |
 | [Restaurant.md](Restaurant.md) | Ordering and talking about food. |
 | [Time.md](Time.md) | How to ask and tell the time. |
+| [IrregularVerbs.md](IrregularVerbs.md) | Common irregular verbs. |
