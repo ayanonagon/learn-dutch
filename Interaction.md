@@ -45,6 +45,8 @@ Interaction in dutch.
 | ----- | ------- |
 | Waar kom je vandaan? | Where are you from? |
 | Ik kom uit [place] | I come from [place] |
+| Waar woon je? | Where do you live? |
+| Ik woon in [place] | I live in [place] |
 
 ## Being polite
 
