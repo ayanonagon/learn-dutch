@@ -12,6 +12,7 @@ Interaction in dutch.
 | Dag | Hi / Bye |  |
 | Tot ziens | Goodbye |  |
 | Tot straks | See you later |  |
+| Tot morgen | See you tomorrow |  |
 | Goedemorgen | Good morning |  |
 | Goedemiddag | Good afternoon |  |
 | Goedenavond | Good evening |  |
