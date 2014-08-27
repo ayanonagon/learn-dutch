@@ -4,22 +4,22 @@ A reference of common irregular verbs
 
 ## Zijn (to be)
 
-| English | Dutch |
+| Dutch | English |
 | ------- | ----- |
-| I am | Ik **ben** |
-| You are | Jij **bent** |
-| He/She/It is | Hij/Zij/Het **is** |
-| We are | Wij **zijn** |
-| You (*pl.*) are | Jullie **zijn** |
-| They are | Zij **zijn** |
+| Ik **ben** | I am |
+| Jij **bent** | You are |
+| Hij/Zij/Het **is** | He/She/It is |
+| Wij **zijn** | We are |
+| Jullie **zijn** | You (*pl.*) are |
+| Zij **zijn** | They are |
 
 ## Hebben (to have)
 
-| English | Dutch |
+| Dutch | English |
 | ------- | ----- |
-| I have | Ik **heb** |
-| You have | Jij **hebt** |
-| He/She/It has | Hij/Zij/Het **heeft** |
-| We have | Wij **hebben** |
-| You (*pl.*) have| Jullie **hebben** |
-| They have | Zij **hebben** |
+| Ik **heb** | I have |
+| Jij **hebt** | You have |
+| Hij/Zij/Het **heeft** | He/She/It has |
+| Wij **hebben** | We have |
+| Jullie **hebben** | You (*pl.*) have|
+| Zij **hebben** | They have |
