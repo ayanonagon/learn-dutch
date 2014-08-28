@@ -21,5 +21,16 @@ A reference of common irregular verbs
 | Jij **hebt** | You have |
 | Hij/Zij/Het **heeft** | He/She/It has |
 | Wij **hebben** | We have |
-| Jullie **hebben** | You (*pl.*) have|
+| Jullie **hebben** | You (*pl.*) have |
 | Zij **hebben** | They have |
+
+## Mogen (to be allowed, may)
+
+| Dutch | English |
+| ------- | ----- |
+| Ik **mag** | I may |
+| Jij **mag** | You may |
+| Hij/Zij/Het **mag** | He/She/It may |
+| Wij **mogen** | We may |
+| Jullie **mogen** | You (*pl.*) may |
+| Zij **mogen** | They may |
