@@ -13,6 +13,8 @@ Interaction in dutch.
 | Tot ziens | Goodbye |  |
 | Tot straks | See you later |  |
 | Tot morgen | See you tomorrow |  |
+| Tot dan | See you then |  |
+| Goedendag | Good day |  |
 | Goedemorgen | Good morning |  |
 | Goedemiddag | Good afternoon |  |
 | Goedenavond | Good evening |  |
