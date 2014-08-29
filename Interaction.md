@@ -33,13 +33,14 @@ Interaction in dutch.
 
 ## Introducing yourself
 
-| Dutch | English |
-| ----- | ------- |
-| Ik heet [name] | I’m called [name] |
-| Ik ben [name] | I’m [name] |
-| Mijn naam is [name] | My name is [name] |
-| Leuk je te ontmoeten | Nice to meet you |
-| Insgelijks | Likewise |
+| Dutch | English | Comments |
+| ----- | ------- | -------- |
+| Ik heet [name] | I’m called [name] |  |
+| Ik ben [name] | I’m [name] |  |
+| Mijn naam is [name] | My name is [name] |  |
+| Hoe heet je? | What’s your name? | *lit.*  How are you called? |
+| Leuk je te ontmoeten | Nice to meet you |  |
+| Insgelijks | Likewise |  |
 
 ## Getting to know someone
 
