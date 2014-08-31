@@ -5,6 +5,7 @@
 | Dutch | English |
 | ----- | ------- |
 | Ik spreek alleen een beetje Nederlands. | I speak only a little Dutch. |
+| Spreek je Engels? | Do you speak English? |
 | Hoe zeg ik “beer” in het Nederlands? | How do I say “beer” in Dutch? |
 
 ## Asking for clarification
