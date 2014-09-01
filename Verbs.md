@@ -18,4 +18,4 @@ A reference of common verbs
 | Dutch | English |
 | ------- | ----- |
 | Ik kom later. | I’ll come later. |
-| Kom je niet mee? | Are you coming (with)? |
+| Kom je niet mee? | Are you not coming (with)? |
