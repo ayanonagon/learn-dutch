@@ -11,6 +11,15 @@
 | Ik neem het broodje kaas. | I’ll take the cheese sandwich. |
 | Voor mij een glas wijn. | For me a glass of wine. |
 
+## Drinks
+
+| Dutch | English |
+| ----- | ------- |
+| wijn | wine |
+| thee | tea |
+| koffie | coffee |
+| koffie verkeerd | latté |
+
 ## Talking about the food
 
 | Dutch | English |
