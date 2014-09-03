@@ -15,6 +15,7 @@
 
 | Dutch | English |
 | ----- | ------- |
+| water | water |
 | wijn | wine |
 | thee | tea |
 | koffie | coffee |
