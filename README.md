@@ -13,3 +13,4 @@ Dutch learning notes, open-sourced.
 * [Common nouns](Nouns.md)
 * [Common regular verbs](Verbs.md)
 * [Common irregular verbs](IrregularVerbs.md)
+* [Colors](Colors.md)
