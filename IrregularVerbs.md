@@ -34,3 +34,14 @@ A reference of common irregular verbs
 | Wij **mogen** | We may |
 | Jullie **mogen** | You (*pl.*) may |
 | Zij **mogen** | They may |
+
+## Moeten (to be obliged, must)
+
+| Dutch | English |
+| ------- | ----- |
+| Ik **moet** | I must |
+| Jij **moet** | You must |
+| Hij/Zij/Het **moet** | He/She/It must |
+| Wij **moeten** | We must |
+| Jullie **moeten** | You (*pl.*) must |
+| Zij **moeten** | They must |
