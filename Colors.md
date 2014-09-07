@@ -2,12 +2,13 @@
 
 | Dutch | English |
 | ----- | ------- |
-| Rood | Red |
-| Groen | Green |
-| Blauw | Blue |
-| Geel | Yellow |
 | Paars | Purple |
-| Wit | White |
-| Black | Zwart |
+| Blauw | Blue |
+| Groen | Green |
+| Geel | Yellow |
+| Oranje | Orange |
+| Rood | Red |
 | Roze | Pink |
+| Wit | White |
+| Zwart | Black |
 | Grijs | Grey |
