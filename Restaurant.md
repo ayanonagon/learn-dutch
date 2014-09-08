@@ -20,6 +20,7 @@
 | thee | tea |
 | koffie | coffee |
 | koffie verkeerd | latté |
+| limonade | lemonade |
 
 ## Talking about the food
 
