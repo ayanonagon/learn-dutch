@@ -12,3 +12,5 @@
 | Wit | White |
 | Zwart | Black |
 | Grijs | Grey |
+| Zilver | Silver |
+| Goud | Gold |
