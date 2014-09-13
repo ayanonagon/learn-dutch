@@ -20,6 +20,7 @@ A reference of common verbs
 | Ik kom later. | I’ll come later. |
 | Kom je niet mee? | Are you not coming (with)? |
 
+
 ## Spreken (to speak)
 
 | Dutch | English |
@@ -37,3 +38,22 @@ A reference of common verbs
 | ------- | ----- |
 | Spreek je Nederlands? | Do you speak Dutch? |
 | Ik spreek alleen een beetje Nederlands. | I speak only a little Dutch. |
+
+
+## Lezen (to read)
+
+| Dutch | English |
+| ------- | ----- |
+| Ik **lees** | I read |
+| Jij **leest** | You read |
+| Hij/Zij/Het **leest** | He/She/It reads |
+| Wij **lezen** | We read |
+| Jullie **lezen** | You (*pl.*) read |
+| Zij **lezen** | They read |
+
+### Example sentences
+
+| Dutch | English |
+| ------- | ----- |
+| Hij leest een boek. | He is reading a book. |
+| Ze lezen het menu. | They are reading the menu. |
