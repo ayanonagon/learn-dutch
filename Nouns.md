@@ -4,11 +4,15 @@
 
 | Dutch | English | Comments |
 | ----- | ------- | -------- |
+| Eend | Duck | |
 | Hond | Dog | |
 | Kat | Cat | male |
 | Kip | Chicken | |
+| Koe | Cow | |
 | Konijn | Rabbit | |
 | Leeuw | Lion | |
+| Olifant | Elephant | |
+| Paard | Horse | |
 | Poes | Cat | female |
 | Schildpad | Turtle | |
 | Tijger | Tiger | |
