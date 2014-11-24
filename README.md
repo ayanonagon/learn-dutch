@@ -14,3 +14,7 @@ Dutch learning notes, open-sourced.
 * [Common regular verbs](Verbs.md)
 * [Common irregular verbs](IrregularVerbs.md)
 * [Colors](Colors.md)
+
+## Resources
+
+* [Duolingo](https://www.duolingo.com) has a great website and mobile apps
