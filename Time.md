@@ -19,12 +19,19 @@ but in Dutch, “half zeven” means half **before** seven (i.e. 6:30).
 | Het is half één. | It is half past twelve. |
 | Het is half twee. | It is half past one. |
 
+This can also be reversed:
+
+| Dutch | English |
+| ----- | ------- |
+| Het is twaalf uur dertig. | It is twelve thirty o'clock |
+| Het is één uur dertig. | It is one thirty o'clock |
+
 ## Quarter (15 min) intervals
 
 | Dutch | English |
 | ----- | ------- |
 | Het is kwart *voor* drie. | It is quarter *to* three. |
-| Het is kwart *over* drie. | It is quarter *past* three. |
+| Het is kwart *over*/*na* drie. | It is quarter *past* three. |
 
 ## Combinations
 
