@@ -7,7 +7,7 @@ Interaction in dutch.
 | Dutch | English | Comments |
 | ----- | ------- | -------- |
 | Hallo | Hello |  |
-| Hoi | Hi | very informal |
+| Hoi / Hey | Hi | very informal |
 | Doei | Bye | very informal |
 | Dag | Hi / Bye |  |
 | Tot ziens | Goodbye |  |
@@ -24,8 +24,8 @@ Interaction in dutch.
 
 | Dutch | English | Comments |
 | ----- | ------- | -------- |
-| Hoe gaat het? | How are you? | *lit.* How goes it? |
-| Hoe gaat het met jou? | How are you? | *lit.* How goes it with you? |
+| Hoe gaat het? | How are you? | *lit.* How goes it? (answer expected) |
+| Hoe gaat het met jou? | How are you? | *lit.* How goes it with you? (answer expected) |
 | Hoe gaat het met u? | How are you? | formal |
 | Goed. | Good. |  |
 | Niet zo goed. | Not so good. |  |
