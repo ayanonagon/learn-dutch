@@ -67,7 +67,7 @@ You do the same for the 30’s, etc.
 | tweeënveertig | fourty two |
 | drieënvijftig | fifty three |
 
-... and so forth.
+… and so forth.
 
 ## 100+
 
@@ -75,3 +75,20 @@ You do the same for the 30’s, etc.
 | ----- | ------- |
 | honderd | hundred |
 | duizend | thousand |
+
+To combine the hundreds and the tens, in Dutch the order is switched. This means that 121 will become “honderdeenentwintig“ (honderd (100), een (1), en (and) twintig (20) concatenated). For numbers lower than 113, there is also “en“ between the hundreds and the 
+
+| Dutch | English |
+|------|--------|
+| honderdeneen | one hundred [and] one |
+| honderdentwee | one hundred [and] two |
+| honderdendrie | one hundred [and] three |
+| … | … |
+| honderdentien | one hundred [and] ten |
+| honderdenenelf | one hundred [and] eleven |
+| honderdentwaalf | one hundred [and] twelve |
+| honderddertien | one hundred [and] thirteen |
+| honderdveertien | one hundred [and] fourteen |
+| … | … |
+| honderdeenentwintig | one hundred [and] twenty-one |
+| honderdtweeentwintig | one hundred [and] twenty-two |
