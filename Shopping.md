@@ -23,3 +23,13 @@
 | erwten | peas |
 | wortels | carrots |
 | tomaten | tomatoes |
+| eieren | eggs |
+| boter | butter |
+| kool | cabbage |
+| bloemkool | cauliflower |
+| ----- | ------- |
+| peper en zout | salt and pepper |
+| gekruid | spicy |
+| zoet | sweet |
+| sour | zuur |
+| bitter | bitter |
