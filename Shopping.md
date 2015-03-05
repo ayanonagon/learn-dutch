@@ -12,3 +12,14 @@
 
 | Dutch | English |
 | ----- | ------- |
+| groenten | vegetables |
+| fruit | fruit |
+| vlees | meat |
+| vis | fish |
+| zuivel | dairy produce |
+| ----- | ------- |
+| aardappelen | potatoes |
+| rijst | rice |
+| erwten | peas |
+| wortels | carrots |
+| tomaten | tomatoes |
