@@ -10,6 +10,8 @@
 
 ## Food
 
+### Types of food
+
 | Dutch | English |
 | ----- | ------- |
 | groenten | vegetables |
@@ -17,6 +19,10 @@
 | vlees | meat |
 | vis | fish |
 | zuivel | dairy produce |
+
+# Vegetables
+
+| Dutch | English |
 | ----- | ------- |
 | aardappelen | potatoes |
 | rijst | rice |
@@ -27,6 +33,10 @@
 | boter | butter |
 | kool | cabbage |
 | bloemkool | cauliflower |
+
+# Flavours
+
+| Dutch | English |
 | ----- | ------- |
 | peper en zout | salt and pepper |
 | gekruid | spicy |
