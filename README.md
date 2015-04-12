@@ -17,4 +17,4 @@ Dutch learning notes, open-sourced.
 
 ## Resources
 
-* [Duolingo](https://www.duolingo.com) has a great website and mobile apps
+* [Duolingo](https://www.duolingo.com) has a great website and mobile apps. Add me ([ayanonagon](https://www.duolingo.com/ayanonagon))!
